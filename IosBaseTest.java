@@ -34,7 +34,7 @@ public class IosBaseTest {
 		 
 		XCUITestOptions option=new XCUITestOptions();
 	//This is for emulator
-		
+		 System.out.println("Taimoor tt is new change");
 		option.setDeviceName("iPhone 12 Pro ");
 	//This is for real devices	
 		option.setDeviceName("Android Device");
